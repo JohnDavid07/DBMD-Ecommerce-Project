@@ -1,4 +1,4 @@
-# Ecommerce Management DBMS Project
+# DBMS Ecommerce Management Project
 
 a small online cloth selling model ,designing of relational database using SQL and MYSQL DB.<br>
 
