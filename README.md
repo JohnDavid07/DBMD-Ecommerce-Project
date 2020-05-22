@@ -1,8 +1,6 @@
-# DBMS-Ecommerce-Project
-
-a small online cloth selling model ,designing of relational database using SQL and MYSQL DB.
-
 # Ecommerce Management DBMS Project
+
+a small online cloth selling model ,designing of relational database using SQL and MYSQL DB.<br>
 
 As a part of our College Curriculum, we made this project for Database Management Systems (DBMS)<br>
 This project contains theoretical as well as implementation in SQL.<br>
